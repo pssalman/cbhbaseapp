@@ -7,7 +7,7 @@
 [Node.js](http://nodejs.org/).*
 
 * Fork this repository.
-* `$ git clone git@github.com:pssalman/thinkster-django-angular-boilerplate.git`
+* `$ git clone git@github.com:pssalman/cbhbaseapp.git`
 * `$ mkvirtualenv cbh`
 * `$ cd thinkster-django-angular-boilerplate/`
 * `$ pip install -r requirements.txt`
