@@ -9,7 +9,7 @@
 * Fork this repository.
 * `$ git clone git@github.com:pssalman/cbhbaseapp.git`
 * `$ mkvirtualenv cbh`
-* `$ cd thinkster-django-angular-boilerplate/`
+* `$ cd cbhbaseapp/`
 * `$ pip install -r requirements.txt`
 * `$ npm install -g bower`
 * `$ npm install`
