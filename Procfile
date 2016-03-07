@@ -1,1 +1,1 @@
-web: gunicorn thinkster_django_angular_boilerplate.wsgi --log-file -
+web: gunicorn cbhbaseapp.wsgi --log-file -
