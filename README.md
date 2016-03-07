@@ -1,4 +1,4 @@
-# thinkster-django-angular-boilerplate
+# cbhbaseapp
 
 ## Installation
 
@@ -7,8 +7,8 @@
 [Node.js](http://nodejs.org/).*
 
 * Fork this repository.
-* `$ git clone git@github.com:<your username>/thinkster-django-angular-boilerplate.git`
-* `$ mkvirtualenv thinkster-djangular`
+* `$ git clone git@github.com:pssalman/thinkster-django-angular-boilerplate.git`
+* `$ mkvirtualenv cbh`
 * `$ cd thinkster-django-angular-boilerplate/`
 * `$ pip install -r requirements.txt`
 * `$ npm install -g bower`
