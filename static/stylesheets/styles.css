@@ -1,0 +1,21 @@
+.no-departments-here {
+  text-align: center;
+}
+
+.department {}
+
+.department .department__meta {
+  font-weight: bold;
+  text-align: right;
+  padding-bottom: 19px;
+}
+
+.department .department__meta a:hover {
+  text-decoration: none;
+}
+
+.btn-add-new-department {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

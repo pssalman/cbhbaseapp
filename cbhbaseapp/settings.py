@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     # my apps
     'authentication',
+    'departments',
 ]
 
 MIDDLEWARE_CLASSES = (

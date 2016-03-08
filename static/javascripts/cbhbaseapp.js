@@ -2,7 +2,10 @@ angular
   .module('cbhbaseapp', [
       'cbhbaseapp.config',
       'cbhbaseapp.routes',
-      'cbhbaseapp.authentication'
+      'cbhbaseapp.authentication',
+      'cbhbaseapp.layout',
+      'cbhbaseapp.departments',
+      'cbhbaseapp.utils'
   ]);
 
 angular
